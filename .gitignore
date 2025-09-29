@@ -1,0 +1,12 @@
+﻿# Ignorar dependências
+node_modules/
+
+# Ignorar cache/sessão do WhatsApp
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar backups locais
+backup-repo.git/
